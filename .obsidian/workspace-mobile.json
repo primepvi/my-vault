@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "890dabaec2afe91e",
+    "type": "split",
+    "children": [
+      {
+        "id": "27f4ff036236d6e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b98f6ff6f0a3baf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cc/Rotações de Binary Search Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotações de Binary Search Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7890fa0dc2af2ee2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "edb36cbf316624d0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "2846120ff316a593",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "7da4321775064af9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "355e976d8f28ee0b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f5192ec31e7f2e52",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0b13a65f24f0de2d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "cc/Diagrama de Classes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6c10819dde255db7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "cc/Diagrama de Classes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "cb525a384a68f28d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "cc/Diagrama de Classes.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "dbea36faf2bb10bc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      },
+      {
+        "id": "0bbaf9694d7394d9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "8dc953e4af5568e5",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "spreadsheet",
+          "title": "Advanced Tables"
+        }
+      }
+    ],
+    "currentTab": 5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "0b98f6ff6f0a3baf",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-12-12 17.34.14.excalidraw.md",
+    "cc/Rotações de Binary Search Tree.md",
+    "imagens",
+    "SmartSelect_20241212_180027_Obsidian.jpg",
+    "imagens/SmartSelect_20241212_182944_Obsidian.jpg",
+    "cc/BBST - Balanced Binary Search Tree.md",
+    "Excalidraw",
+    "cc/Diagrama de Classes.md",
+    "Excalidraw/Drawing 2024-12-10 07.16.48.excalidraw.md",
+    "capture_temp 1",
+    "capture_temp",
+    "Excalidraw/Drawing 2024-12-10 07.12.05.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-10 07.16.48.excalidraw.png",
+    "Pasted image 20241210071815.png",
+    "Pasted image 20241210072003.png",
+    "Pasted image 20241210071512.png",
+    "cc/Untitled Kanban.md"
+  ]
+}
